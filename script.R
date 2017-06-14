@@ -6,7 +6,6 @@ library(readr)
 library(rvest)
 library(stringr)
 library(rex)
-library(multi)
 library(tidyverse)
 
 rex_mode()
